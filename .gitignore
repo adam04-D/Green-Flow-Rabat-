@@ -1,0 +1,27 @@
+# ----- Data -----
+data/raw/
+data/frames/
+data/roboflow/
+
+# ----- Model weights -----
+models/*.pt
+models/*.onnx
+models/*.engine
+models/*.ncnn/
+
+# ----- Training outputs -----
+outputs/
+runs/
+
+# ----- Python -----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ----- OS -----
+.DS_Store
+Thumbs.db
+
+# ----- IDE -----
+.vscode/
+*.code-workspace
