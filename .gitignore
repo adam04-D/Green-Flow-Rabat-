@@ -25,3 +25,12 @@ Thumbs.db
 # ----- IDE -----
 .vscode/
 *.code-workspace
+
+# ----- Roboflow/YOLO Dataset Exports -----
+train/
+valid/
+test/
+data.yaml
+README.dataset.txt
+README.roboflow.txt
+
