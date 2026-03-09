@@ -2,6 +2,8 @@
 data/raw/
 data/frames/
 data/roboflow/
+dataset.zip
+zip_dataset.py
 
 # ----- Model weights -----
 models/*.pt
